@@ -36,13 +36,12 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 </details>
 
 <details>
-<summary><strong>DAY - </strong> 💻</summary>
+<summary><strong>DAY - 4</strong> 💻</summary>
 
-| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
-| ------ | ------------ | ---------- | ----- | ------------ |
-| 01.    |              |            |       | [Leetcode]() |
-| 02.    |              |            |       | [Leetcode]() |
-| 03.    |              |            |       | [Leetcode]() |
+| S. No. | PROBLEM NAME                   | TOPIC NAME | LEVEL  | LINK                                                                 |
+| ------ | ------------------------------ | ---------- | ------ | -------------------------------------------------------------------- |
+| 01.    | 75. Sort Colors                | Arrays     | Medium | [Leetcode](https://leetcode.com/problems/sort-colors)                |
+| 02.    | 287. Find the Duplicate Number | Arrays     | Medium | [Leetcode](https://leetcode.com/problems/find-the-duplicate-number/) |
 
 </details>
 
