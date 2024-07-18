@@ -46,7 +46,19 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 </details>
 
 <details>
-<summary><strong>DAY - </strong> 💻</summary>
+<summary><strong>DAY - 5</strong> 🧑‍💻</summary>
+
+| S. No. | PROBLEM NAME                      | TOPIC NAME          | LEVEL  | LINK                                                                                        |
+| ------ | --------------------------------- | ------------------- | ------ | ------------------------------------------------------------------------------------------- |
+| 01.    | 73. Set Matrix Zeroes             | Arrays              | Medium | [Leetcode](https://leetcode.com/problems/set-matrix-zeroes/description)                     |
+| 02.    | 974. Subarray Sums Divisible by K | Arrays              | Medium | [Leetcode](https://leetcode.com/problems/subarray-sums-divisible-by-k)                      |
+| 03.    | Chocolate Distribution Problem    | Arrays              | Easy   | [GFG](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1)          |
+| 04.    | Smallest Positive Missing         | Sorting & Searching | Medium | [GFG](https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1) |
+
+</details>
+
+<details>
+<summary><strong>DAY - </strong> 🗓️</summary>
 
 | S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
 | ------ | ------------ | ---------- | ----- | ------------ |
@@ -65,7 +77,8 @@ Each day, We'll will tackle a set of problems as per our understanding, topic an
 
 ### Resources
 
-- [Leetcode](https://leetcode.com/)
+- [Leetcode](https://leetcode.com)
+- [GFG](https://www.geeksforgeeks.org)
 
 ### Contact
 
