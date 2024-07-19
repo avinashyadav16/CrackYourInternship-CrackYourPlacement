@@ -58,6 +58,17 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 </details>
 
 <details>
+<summary><strong>DAY - 6</strong> 🏕️</summary>
+
+| S. No. | PROBLEM NAME                                           | TOPIC NAME | LEVEL   | LINK                                                                                         |
+| ------ | ------------------------------------------------------ | ---------- | ------- | -------------------------------------------------------------------------------------------- |
+| 01.    | 12. Integer to Roman                                   | String     | Medium  | [Leetcode](https://leetcode.com/problems/integer-to-roman)                                   |
+| 02.    | 20. Valid Parentheses                                  | String     | Easy    | [Leetcode](https://leetcode.com/problems/valid-parentheses)                                  |
+| 03.    | 28. Find the Index of the First Occurrence in a String | String     | Easy    | [Leetcode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) |
+| 04.    | Print all the duplicate characters in a string         | String     | Article | [GFG](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string)            |
+
+</details>
+<details>
 <summary><strong>DAY - </strong> 🗓️</summary>
 
 | S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
@@ -72,13 +83,20 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 
 ### About the Challenge
 
-This challenge is designed to enhance your problem-solving skills, focusing on Data Structures and Algorithms. <br>
-Each day, We'll will tackle a set of problems as per our understanding, topic and difficulty level.
+This challenge is designed to enhance the problem-solving skills, focusing on Data Structures and Algorithms. <br>
+Each day, We'll will tackle a set of problems as per our understanding, topic and difficulty level.<br>
+This challenge is not a competition, but a way to improve our skills and learn & grow.
 
 ### Resources
 
 - [Leetcode](https://leetcode.com)
 - [GFG](https://www.geeksforgeeks.org)
+
+### Note:
+
+` If the code does not run in your compiler on forking the repository, then please try renaming the file by removing the spaces in it.`
+
+` For Example: Rename the file { 12. Integer to Roman.cpp } ==> to ==> { 12_Integer_to_Roman.cpp }`
 
 ### Contact
 
