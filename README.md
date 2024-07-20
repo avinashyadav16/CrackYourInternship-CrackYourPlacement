@@ -68,6 +68,16 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 | 04.    | Print all the duplicate characters in a string         | String     | Article | [GFG](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string)            |
 
 </details>
+
+<details>
+<summary><strong>DAY - 7</strong> 🍉</summary>
+
+| S. No. | PROBLEM NAME                                                             | TOPIC NAME | LEVEL   | LINK                                                                           |
+| ------ | ------------------------------------------------------------------------ | ---------- | ------- | ------------------------------------------------------------------------------ |
+| 01.    | 54. Spiral Matrix                                                        | Matrix     | Medium  | [Leetcode](https://leetcode.com/problems/spiral-matrix/description)            |
+| 02.    | Given a matrix of ‘O’ and ‘X’, replace ‘O’ with ‘X’ if surrounded by ‘X’ | Matrix     | Article | [GFG](https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x) |
+
+</details>
 <details>
 <summary><strong>DAY - </strong> 🗓️</summary>
 
