@@ -78,8 +78,141 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 | 02.    | Given a matrix of ‘O’ and ‘X’, replace ‘O’ with ‘X’ if surrounded by ‘X’ | Matrix     | Article | [GFG](https://www.geeksforgeeks.org/given-matrix-o-x-replace-o-x-surrounded-x) |
 
 </details>
+
 <details>
-<summary><strong>DAY - </strong> 🗓️</summary>
+<summary><strong>=> DAY - 8</strong> 🎳</summary>
+
+| S. No. | PROBLEM NAME                           | TOPIC NAME  | LEVEL | LINK                                                                                     |
+| ------ | -------------------------------------- | ----------- | ----- | ---------------------------------------------------------------------------------------- |
+| 01.    | 83. Remove Duplicates from Sorted List | Linked List | Easy  | [Leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description) |
+| 02.    | 234. Palindrome Linked List            | Linked List | Easy  | [Leetcode](https://leetcode.com/problems/palindrome-linked-list/description)             |
+| 03.    | 876. Middle of the Linked List         | Linked List | Easy  | [Leetcode](https://leetcode.com/problems/middle-of-the-linked-list/description)          |
+
+</details>
+
+<details>
+<summary><strong>DAY - 9</strong> 👋</summary>
+
+| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
+| ------ | ------------ | ---------- | ----- | ------------ |
+| 01.    |              |            |       | [Leetcode]() |
+| 02.    |              |            |       | [Leetcode]() |
+| 03.    |              |            |       | [Leetcode]() |
+
+</details>
+
+<details>
+<summary><strong>DAY - 10</strong> 🫢</summary>
+
+| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
+| ------ | ------------ | ---------- | ----- | ------------ |
+| 01.    |              |            |       | [Leetcode]() |
+| 02.    |              |            |       | [Leetcode]() |
+| 03.    |              |            |       | [Leetcode]() |
+
+</details>
+
+<details>
+<summary><strong>DAY - 11</strong> 🛫</summary>
+
+| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
+| ------ | ------------ | ---------- | ----- | ------------ |
+| 01.    |              |            |       | [Leetcode]() |
+| 02.    |              |            |       | [Leetcode]() |
+| 03.    |              |            |       | [Leetcode]() |
+
+</details>
+
+<details>
+<summary><strong>DAY - 12</strong> 🎄</summary>
+
+| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
+| ------ | ------------ | ---------- | ----- | ------------ |
+| 01.    |              |            |       | [Leetcode]() |
+| 02.    |              |            |       | [Leetcode]() |
+| 03.    |              |            |       | [Leetcode]() |
+
+</details>
+
+<details>
+<summary><strong>DAY - 13</strong> 🍜</summary>
+
+| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
+| ------ | ------------ | ---------- | ----- | ------------ |
+| 01.    |              |            |       | [Leetcode]() |
+| 02.    |              |            |       | [Leetcode]() |
+| 03.    |              |            |       | [Leetcode]() |
+
+</details>
+
+<details>
+<summary><strong>DAY - 14</strong> 🗯️</summary>
+
+| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
+| ------ | ------------ | ---------- | ----- | ------------ |
+| 01.    |              |            |       | [Leetcode]() |
+| 02.    |              |            |       | [Leetcode]() |
+| 03.    |              |            |       | [Leetcode]() |
+
+</details>
+
+<details>
+<summary><strong>DAY - 15</strong> 💖</summary>
+
+| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
+| ------ | ------------ | ---------- | ----- | ------------ |
+| 01.    |              |            |       | [Leetcode]() |
+| 02.    |              |            |       | [Leetcode]() |
+| 03.    |              |            |       | [Leetcode]() |
+
+</details>
+
+<details>
+<summary><strong>DAY - 16</strong> 🚘</summary>
+
+| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
+| ------ | ------------ | ---------- | ----- | ------------ |
+| 01.    |              |            |       | [Leetcode]() |
+| 02.    |              |            |       | [Leetcode]() |
+| 03.    |              |            |       | [Leetcode]() |
+
+</details>
+
+<details>
+<summary><strong>DAY - 17</strong> 💐</summary>
+
+| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
+| ------ | ------------ | ---------- | ----- | ------------ |
+| 01.    |              |            |       | [Leetcode]() |
+| 02.    |              |            |       | [Leetcode]() |
+| 03.    |              |            |       | [Leetcode]() |
+
+</details>
+
+<details>
+<summary><strong>DAY - 18</strong> 🎭</summary>
+
+| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
+| ------ | ------------ | ---------- | ----- | ------------ |
+| 01.    |              |            |       | [Leetcode]() |
+| 02.    |              |            |       | [Leetcode]() |
+| 03.    |              |            |       | [Leetcode]() |
+
+</details>
+
+<details>
+<summary><strong>DAY - 19</strong> 🎯</summary>
+
+| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
+| ------ | ------------ | ---------- | ----- | ------------ |
+| 01.    |              |            |       | [Leetcode]() |
+| 02.    |              |            |       | [Leetcode]() |
+| 03.    |              |            |       | [Leetcode]() |
+
+</details>
+
+<details>
+<summary><strong>DAY - 20</strong> 🎹</summary>
 
 | S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
 | ------ | ------------ | ---------- | ----- | ------------ |
@@ -104,8 +237,7 @@ This challenge is not a competition, but a way to improve our skills and learn &
 
 ### Note:
 
-` If the code does not run in your compiler on forking the repository, then please try renaming the file by removing the spaces in it.`
-
+` If the code does not run in your compiler on forking the repository, then please try renaming the file by removing the spaces in it.` <br>
 ` For Example: Rename the file { 12. Integer to Roman.cpp } ==> to ==> { 12_Integer_to_Roman.cpp }`
 
 ### Contact
