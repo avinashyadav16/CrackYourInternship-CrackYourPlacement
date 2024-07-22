@@ -80,7 +80,7 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 </details>
 
 <details>
-<summary><strong>=> DAY - 8</strong> 🎳</summary>
+<summary><strong>DAY - 8</strong> 🎳</summary>
 
 | S. No. | PROBLEM NAME                           | TOPIC NAME  | LEVEL | LINK                                                                                     |
 | ------ | -------------------------------------- | ----------- | ----- | ---------------------------------------------------------------------------------------- |
@@ -91,13 +91,13 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 </details>
 
 <details>
-<summary><strong>DAY - 9</strong> 👋</summary>
+<summary><strong>=> DAY - 9</strong> 👋</summary>
 
-| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
-| ------ | ------------ | ---------- | ----- | ------------ |
-| 01.    |              |            |       | [Leetcode]() |
-| 02.    |              |            |       | [Leetcode]() |
-| 03.    |              |            |       | [Leetcode]() |
+| S. No. | PROBLEM NAME                                            | TOPIC NAME  | LEVEL  | LINK                                                                                        |
+| ------ | ------------------------------------------------------- | ----------- | ------ | ------------------------------------------------------------------------------------------- |
+| 01.    | 121. Best Time to Buy and Sell Stock                    | Array       | Easy   | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)                   |
+| 02.    | 122. Best Time to Buy and Sell Stock II                 | Array       | Medium | [Leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)                |
+| 03.    | 1290. Convert Binary Number in a Linked List to Integer | Linked List | Easy   | [Leetcode](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer) |
 
 </details>
 
