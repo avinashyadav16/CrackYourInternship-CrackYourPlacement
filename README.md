@@ -91,7 +91,7 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 </details>
 
 <details>
-<summary><strong>=> DAY - 9</strong> 👋</summary>
+<summary><strong>DAY - 9</strong> 👋</summary>
 
 | S. No. | PROBLEM NAME                                            | TOPIC NAME  | LEVEL  | LINK                                                                                        |
 | ------ | ------------------------------------------------------- | ----------- | ------ | ------------------------------------------------------------------------------------------- |
@@ -102,13 +102,13 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 </details>
 
 <details>
-<summary><strong>DAY - 10</strong> 🫢</summary>
+<summary><strong>=> DAY - 10</strong> 🫢</summary>
 
-| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
-| ------ | ------------ | ---------- | ----- | ------------ |
-| 01.    |              |            |       | [Leetcode]() |
-| 02.    |              |            |       | [Leetcode]() |
-| 03.    |              |            |       | [Leetcode]() |
+| S. No. | PROBLEM NAME                        | TOPIC NAME   | LEVEL   | LINK                                                                              |
+| ------ | ----------------------------------- | ------------ | ------- | --------------------------------------------------------------------------------- |
+| 01.    | 21. Merge Two Sorted Lists          | Linked Lists | Easy    | [Leetcode](https://leetcode.com/problems/merge-two-sorted-lists/description)      |
+| 02.    | 203. Remove Linked List Elements    | Linked Lists | Easy    | [Leetcode](https://leetcode.com/problems/remove-linked-list-elements/description) |
+| 03.    | Sort a linked list of 0s, 1s and 2s | Linked Lists | Article | [GFG](https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s)            |
 
 </details>
 
