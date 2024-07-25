@@ -102,7 +102,7 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 </details>
 
 <details>
-<summary><strong>=> DAY - 10</strong> 🫢</summary>
+<summary><strong>DAY - 10</strong> 🫢</summary>
 
 | S. No. | PROBLEM NAME                        | TOPIC NAME   | LEVEL   | LINK                                                                              |
 | ------ | ----------------------------------- | ------------ | ------- | --------------------------------------------------------------------------------- |
@@ -113,13 +113,13 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 </details>
 
 <details>
-<summary><strong>DAY - 11</strong> 🛫</summary>
+<summary><strong>=> DAY - 11</strong> 🛫</summary>
 
-| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
-| ------ | ------------ | ---------- | ----- | ------------ |
-| 01.    |              |            |       | [Leetcode]() |
-| 02.    |              |            |       | [Leetcode]() |
-| 03.    |              |            |       | [Leetcode]() |
+| S. No. | PROBLEM NAME                               | TOPIC NAME   | LEVEL | LINK                                                                                       |
+| ------ | ------------------------------------------ | ------------ | ----- | ------------------------------------------------------------------------------------------ |
+| 01.    | 680. Valid Palindrome II                   | Strings      | Easy  | [Leetcode](https://leetcode.com/problems/valid-palindrome-ii/)                             |
+| 02.    | Delete nodes having greater value on right | Linked Lists | Easy  | [GFG](https://www.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1) |
+| 03.    | Product array puzzle                       | Mathematical | Easy  | [GFG](https://www.geeksforgeeks.org/problems/product-array-puzzle4525/1)                   |
 
 </details>
 
