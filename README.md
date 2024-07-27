@@ -113,7 +113,7 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 </details>
 
 <details>
-<summary><strong>=> DAY - 11</strong> 🛫</summary>
+<summary><strong>DAY - 11</strong> 🛫</summary>
 
 | S. No. | PROBLEM NAME                               | TOPIC NAME   | LEVEL | LINK                                                                                       |
 | ------ | ------------------------------------------ | ------------ | ----- | ------------------------------------------------------------------------------------------ |
@@ -124,13 +124,13 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 </details>
 
 <details>
-<summary><strong>DAY - 12</strong> 🎄</summary>
+<summary><strong>=> DAY - 12</strong> 🎄</summary>
 
-| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
-| ------ | ------------ | ---------- | ----- | ------------ |
-| 01.    |              |            |       | [Leetcode]() |
-| 02.    |              |            |       | [Leetcode]() |
-| 03.    |              |            |       | [Leetcode]() |
+| S. No. | PROBLEM NAME      | TOPIC NAME | LEVEL  | LINK                                                               |
+| ------ | ----------------- | ---------- | ------ | ------------------------------------------------------------------ |
+| 01.    | 15. 3Sum          | Arrays     | Medium | [Leetcode](https://leetcode.com/problems/3sum/description)         |
+| 02.    | 18. 4Sum          | Arrays     | Medium | [Leetcode](https://leetcode.com/problems/4sum)                     |
+| 03.    | 289. Game of Life | Arrays     | Medium | [Leetcode](https://leetcode.com/problems/game-of-life/description) |
 
 </details>
 
