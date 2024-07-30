@@ -124,7 +124,7 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 </details>
 
 <details>
-<summary><strong>=> DAY - 12</strong> 🎄</summary>
+<summary><strong>DAY - 12</strong> 🎄</summary>
 
 | S. No. | PROBLEM NAME      | TOPIC NAME | LEVEL  | LINK                                                               |
 | ------ | ----------------- | ---------- | ------ | ------------------------------------------------------------------ |
@@ -135,13 +135,13 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 </details>
 
 <details>
-<summary><strong>DAY - 13</strong> 🍜</summary>
+<summary><strong>=> DAY - 13</strong> 🍜</summary>
 
-| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
-| ------ | ------------ | ---------- | ----- | ------------ |
-| 01.    |              |            |       | [Leetcode]() |
-| 02.    |              |            |       | [Leetcode]() |
-| 03.    |              |            |       | [Leetcode]() |
+| S. No. | PROBLEM NAME                          | TOPIC NAME       | LEVEL  | LINK                                                                                   |
+| ------ | ------------------------------------- | ---------------- | ------ | -------------------------------------------------------------------------------------- |
+| 01.    | 92. Reverse Linked List II            | Linked Lists     | Medium | [Leetcode](https://leetcode.com/problems/reverse-linked-list-ii/description)           |
+| 02.    | 628. Maximum Product of Three Numbers | Mathematical     | Easy   | [Leetcode](https://leetcode.com/problems/maximum-product-of-three-numbers/description) |
+| 03.    | 739. Daily Temperatures               | Stack and Queues | Medium | [Leetcode](https://leetcode.com/problems/daily-temperatures/description)               |
 
 </details>
 
