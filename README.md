@@ -135,7 +135,7 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 </details>
 
 <details>
-<summary><strong>=> DAY - 13</strong> 🍜</summary>
+<summary><strong>DAY - 13</strong> 🍜</summary>
 
 | S. No. | PROBLEM NAME                          | TOPIC NAME       | LEVEL  | LINK                                                                                   |
 | ------ | ------------------------------------- | ---------------- | ------ | -------------------------------------------------------------------------------------- |
@@ -146,13 +146,12 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 </details>
 
 <details>
-<summary><strong>DAY - 14</strong> 🗯️</summary>
+<summary><strong>=> DAY - 14</strong> 🗯️</summary>
 
-| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
-| ------ | ------------ | ---------- | ----- | ------------ |
-| 01.    |              |            |       | [Leetcode]() |
-| 02.    |              |            |       | [Leetcode]() |
-| 03.    |              |            |       | [Leetcode]() |
+| S. No. | PROBLEM NAME                | TOPIC NAME | LEVEL | LINK                                                             |
+| ------ | --------------------------- | ---------- | ----- | ---------------------------------------------------------------- |
+| 01.    | 100. Same Tree              | Trees      | Easy  | [Leetcode](https://leetcode.com/problems/same-tree/description)  |
+| 02.    | 617. Merge Two Binary Trees | Trees      | Easy  | [Leetcode](https://leetcode.com/problems/merge-two-binary-trees) |
 
 </details>
 
