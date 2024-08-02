@@ -156,7 +156,7 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 </details>
 
 <details>
-<summary><strong>=> DAY - 15</strong> 💖</summary>
+<summary><strong>DAY - 15</strong> 💖</summary>
 
 | S. No. | PROBLEM NAME                         | TOPIC NAME | LEVEL  | LINK                                                                                  |
 | ------ | ------------------------------------ | ---------- | ------ | ------------------------------------------------------------------------------------- |
@@ -167,13 +167,13 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 </details>
 
 <details>
-<summary><strong>DAY - 16</strong> 🚘</summary>
+<summary><strong>=> DAY - 16</strong> 🚘</summary>
 
-| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
-| ------ | ------------ | ---------- | ----- | ------------ |
-| 01.    |              |            |       | [Leetcode]() |
-| 02.    |              |            |       | [Leetcode]() |
-| 03.    |              |            |       | [Leetcode]() |
+| S. No. | PROBLEM NAME                                         | TOPIC NAME | LEVEL  | LINK                                                                             |
+| ------ | ---------------------------------------------------- | ---------- | ------ | -------------------------------------------------------------------------------- |
+| 01.    | 48. Rotate Image                                     | Arrays     | Medium | [Leetcode](https://leetcode.com/problems/rotate-image)                           |
+| 02.    | Find the number of islands using DFS                 | Arrays     | Medium | [GFG](https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s) |
+| 03.    | Maximum size rectangle binary sub-matrix with all 1s | Arrays     | Medium | [GFG](https://geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s)     |
 
 </details>
 
