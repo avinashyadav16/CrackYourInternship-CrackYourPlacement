@@ -2,6 +2,8 @@
 
 A 45-day challenge by Arsh Goyal to improve DSA skills.
 
+### Refer the DSA Problem Sheet here: 🔗 [DSA Problem Sheet.xlsx ](./DSA%20Problem%20Sheet.xlsx)
+
 <details>
 <summary><strong>DAY - 1</strong> 🌟</summary>
 
@@ -167,57 +169,13 @@ A 45-day challenge by Arsh Goyal to improve DSA skills.
 </details>
 
 <details>
-<summary><strong>=> DAY - 16</strong> 🚘</summary>
+<summary><strong>DAY - 16</strong> 🚘</summary>
 
 | S. No. | PROBLEM NAME                                         | TOPIC NAME | LEVEL  | LINK                                                                             |
 | ------ | ---------------------------------------------------- | ---------- | ------ | -------------------------------------------------------------------------------- |
 | 01.    | 48. Rotate Image                                     | Arrays     | Medium | [Leetcode](https://leetcode.com/problems/rotate-image)                           |
 | 02.    | Find the number of islands using DFS                 | Arrays     | Medium | [GFG](https://www.geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s) |
 | 03.    | Maximum size rectangle binary sub-matrix with all 1s | Arrays     | Medium | [GFG](https://geeksforgeeks.org/maximum-size-rectangle-binary-sub-matrix-1s)     |
-
-</details>
-
-<details>
-<summary><strong>DAY - 17</strong> 💐</summary>
-
-| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
-| ------ | ------------ | ---------- | ----- | ------------ |
-| 01.    |              |            |       | [Leetcode]() |
-| 02.    |              |            |       | [Leetcode]() |
-| 03.    |              |            |       | [Leetcode]() |
-
-</details>
-
-<details>
-<summary><strong>DAY - 18</strong> 🎭</summary>
-
-| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
-| ------ | ------------ | ---------- | ----- | ------------ |
-| 01.    |              |            |       | [Leetcode]() |
-| 02.    |              |            |       | [Leetcode]() |
-| 03.    |              |            |       | [Leetcode]() |
-
-</details>
-
-<details>
-<summary><strong>DAY - 19</strong> 🎯</summary>
-
-| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
-| ------ | ------------ | ---------- | ----- | ------------ |
-| 01.    |              |            |       | [Leetcode]() |
-| 02.    |              |            |       | [Leetcode]() |
-| 03.    |              |            |       | [Leetcode]() |
-
-</details>
-
-<details>
-<summary><strong>DAY - 20</strong> 🎹</summary>
-
-| S. No. | PROBLEM NAME | TOPIC NAME | LEVEL | LINK         |
-| ------ | ------------ | ---------- | ----- | ------------ |
-| 01.    |              |            |       | [Leetcode]() |
-| 02.    |              |            |       | [Leetcode]() |
-| 03.    |              |            |       | [Leetcode]() |
 
 </details>
 

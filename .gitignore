@@ -30,6 +30,5 @@
 *.exe
 *.out
 *.app
-temp.cpp
+*Temp
 .vscode
-.vscode/settings.json
